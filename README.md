@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **statistical, nlp and auto machine learning.**
 
-- 📝 I write articles on [https://iamsk.info/](https://iamsk.info/)
-
 - 📫 How to reach me **iamsk.info#gmail.com**
 
 - ⚡ Fun fact **DIY over coding.**
