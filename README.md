@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bin</h1>
-<h3 align="center">A passionate programmer from Shenzhen.</h3><a href="https://github.com/iamsk/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/iamsk/iBeats/main/files/heart.svg"/></a>
+<h3 align="center">A passionate programmer from Shenzhen.</h3>
 
 - 🔭 I’m currently working on **alternative data platform**
 
@@ -7,7 +7,7 @@
 
 - 📝 I write articles on [https://iamsk.info/](https://iamsk.info/)
 
-- 📫 How to reach me **iamsk.info@gmail.com**
+- 📫 How to reach me **iamsk.info#gmail.com**
 
 - ⚡ Fun fact **DIY over coding.**
 
